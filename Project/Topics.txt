@@ -1,0 +1,503 @@
+ Airbnb Dataset Portfolio.ipynb
+ TensorFlow_Tutorial_Simple_Linear_Model.ipynb
+0.Exploratory Data Analysis.ipynb
+00.00-Preface.ipynb
+000_index.ipynb
+00_images_are_arrays.ipynb
+01.00-IPython-Beyond-Normal-Python.ipynb
+01.01-Help-And-Documentation.ipynb
+01.02-Shell-Keyboard-Shortcuts.ipynb
+01.03-Magic-Commands.ipynb
+01.04-Input-Output-History.ipynb
+01.05-IPython-And-Shell-Commands.ipynb
+01.06-Errors-and-Debugging.ipynb
+01.07-Timing-and-Profiling.ipynb
+01.08-More-IPython-Resources.ipynb
+01_Simple_Linear_Model.ipynb
+01_basic_plotting.ipynb
+02-indexing.ipynb
+02.00-Introduction-to-NumPy.ipynb
+02.01-Understanding-Data-Types.ipynb
+02.02-The-Basics-Of-NumPy-Arrays.ipynb
+02.03-Computation-on-arrays-ufuncs.ipynb
+02.04-Computation-on-arrays-aggregates.ipynb
+02.05-Computation-on-arrays-broadcasting.ipynb
+02.06-Boolean-Arrays-and-Masks.ipynb
+02.07-Fancy-Indexing.ipynb
+02.08-Sorting.ipynb
+02.09-Structured-Data-NumPy.ipynb
+02_Convolutional_Neural_Network.ipynb
+03.00-Introduction-to-Pandas.ipynb
+03.01-Introducing-Pandas-Objects.ipynb
+03.02-Data-Indexing-and-Selection.ipynb
+03.03-Operations-in-Pandas.ipynb
+03.04-Missing-Values.ipynb
+03.05-Hierarchical-Indexing.ipynb
+03.06-Concat-And-Append.ipynb
+03.07-Merge-and-Join.ipynb
+03.08-Aggregation-and-Grouping.ipynb
+03.09-Pivot-Tables.ipynb
+03.10-Working-With-Strings.ipynb
+03.11-Working-with-Time-Series.ipynb
+03.12-Performance-Eval-and-Query.ipynb
+03.13-Further-Resources.ipynb
+03B_Layers_API.ipynb
+03_PrettyTensor.ipynb
+04.00-Introduction-To-Matplotlib.ipynb
+04.01-Simple-Line-Plots.ipynb
+04.02-Simple-Scatter-Plots.ipynb
+04.03-Errorbars.ipynb
+04.04-Density-and-Contour-Plots.ipynb
+04.05-Histograms-and-Binnings.ipynb
+04.06-Customizing-Legends.ipynb
+04.07-Customizing-Colorbars.ipynb
+04.08-Multiple-Subplots.ipynb
+04.09-Text-and-Annotation.ipynb
+04.10-Customizing-Ticks.ipynb
+04.11-Settings-and-Stylesheets.ipynb
+04.12-Three-Dimensional-Plotting.ipynb
+04.13-Geographic-Data-With-Basemap.ipynb
+04.14-Visualization-With-Seaborn.ipynb
+04.15-Further-Resources.ipynb
+04_Save_Restore.ipynb
+05.00-Machine-Learning.ipynb
+05.01-What-Is-Machine-Learning.ipynb
+05.02-Introducing-Scikit-Learn.ipynb
+05.03-Hyperparameters-and-Model-Validation.ipynb
+05.04-Feature-Engineering.ipynb
+05.05-Naive-Bayes.ipynb
+05.06-Linear-Regression.ipynb
+05.07-Support-Vector-Machines.ipynb
+05.08-Random-Forests.ipynb
+05.09-Principal-Component-Analysis.ipynb
+05.10-Manifold-Learning.ipynb
+05.11-K-Means.ipynb
+05.12-Gaussian-Mixtures.ipynb
+05.13-Kernel-Density-Estimation.ipynb
+05.14-Image-Features.ipynb
+05.15-Learning-More.ipynb
+05_Ensemble_Learning.ipynb
+06.00-Figure-Code.ipynb
+06_CIFAR-10.ipynb
+07_Inception_Model.ipynb
+08_Transfer_Learning.ipynb
+09_Video_Data.ipynb
+0_color_and_exposure.ipynb
+1.Classification.ipynb
+11_Adversarial_Examples.ipynb
+12_Adversarial_Noise_MNIST.ipynb
+13B_Visual_Analysis_MNIST.ipynb
+13_Visual_Analysis.ipynb
+14_DeepDream.ipynb
+15_Style_Transfer.ipynb
+16_Reinforcement_Learning.ipynb
+1_image_filters.ipynb
+2.1.Clustering Algorithm_final .ipynb
+2.1.ManualClustering.ipynb
+2.2.ManualCluster1Regression.ipynb
+2.3.ManualCluster2Regression.ipynb
+2.4.ManualCluster3Regression.ipynb
+2.5.ManualCluster4Regression.ipynb
+2_feature_detection.ipynb
+3.1.KmeansCluster0Regression.ipynb
+3.2.KmeansCluster1Regression.ipynb
+3.3.KmeansCluster2Regression.ipynb
+3.4.KmeansCluster3Regression (1).ipynb
+3.4.KmeansCluster3Regression.ipynb
+3_morphological_operations.ipynb
+4.NoclusteringRegression.ipynb
+4_segmentation.ipynb
+6.1. AutoEncoders and Embeddings.ipynb
+6.2 NLP and Deep Learning.ipynb
+7.1 RNN and LSTM.ipynb
+7.2 LSTM for Sentence Generation.ipynb
+ADSA - Portfolio.ipynb
+Analyzes.ipynb
+Assignment 3.ipynb
+Assignment 3_cepko.s_attempt_2014-06-04-21-59-05_HW3.ipynb
+Assignment3_Code-Copy0.ipynb
+Assignment_1_Properly_Format_and_Explain.ipynb
+Assignment_2_Kaggle.ipynb
+Assignment_3_Deep_Learning.ipynb
+Autoencoder for Text in TensorFlow.ipynb
+Autoencoders.ipynb
+BDIA Research Project.ipynb
+BigData3.ipynb
+Bitcoin closing price prediction using Deep Learning, Random Forest and Sentiment Analysis_Project.ipynb
+Blog-Vehicle Type Classification using CNN.ipynb
+Blog_Writing.ipynb
+Butterworth low pass filter.ipynb
+CNN_MNIST.ipynb
+CNN_Mouse_Brain_Classification.ipynb
+CNN_Mouse_Brain_Classification_Augmentation.ipynb
+CNN_Mouse_Brain_Classification_Draft.ipynb
+CNN_Mouse_Brain_Classification_Transfer_Learning.ipynb
+CS 4300 HW 3.ipynb
+CSYE 7245- Big-Data Systems & Intelligence Analytics Project.ipynb
+CSYE_7245_Advances_in_Data_Sciences_and_Architecture_Assignment_3.ipynb
+CSYE_7245_Advances_in_Data_Sciences_and_Architecture_Assignment_4.ipynb
+CSYE_7245_Big-Data_Systems_and_Intelligence_Analytics_Assignment_1.ipynb
+CSYE_7245_Big-Data_Systems_and_Intelligence_Analytics_Research_Project.ipynb
+Convolutional_Neural_Network.ipynb
+Convolutional_Neural_Network_model.ipynb
+DBN-MNIST.ipynb
+DCGAN.ipynb
+Data Cleaning and Exploration.ipynb
+Data Retrival.ipynb
+DataClean_OneMonth_Lyft_Line.ipynb
+DataClean_OneMonth_Uber_Pool.ipynb
+Data_Management_and_Database_Design_INFO_6210_Exam.ipynb
+Data_Management_and_Database_Design_INFO_6210_Portolio.ipynb
+Extracting Tweets From Twitter.ipynb
+FINAL_BLOG.ipynb
+FaceDetection.ipynb
+FaceRecognition.ipynb
+FacialRecognition.ipynb
+Filter.ipynb
+Final Portfolio BDIA.ipynb
+Final Project_001259251s_attempt_2018-04-27-21-22-22_Butterworth low pass filter.ipynb
+Final Project_001259251s_attempt_2018-04-27-21-22-22_HumanActivityRecognition.ipynb
+Final Project_001259251s_attempt_2018-04-27-21-22-22_flask.ipynb
+Final Project_001825094s_attempt_2018-04-27-23-03-00_7245portfolio.ipynb
+Final1-ShuchaoH(CSYE7245_Project).ipynb
+FinalPredictingMVP-PCA.ipynb
+FinalPredictingMVP.ipynb
+FinalProject.ipynb
+Final_Code_Blog.ipynb
+Final_Project_BDIA_Code_Portfolio.ipynb
+Final_Project_Blog.ipynb
+GAN.ipynb
+GANS for Text.ipynb
+GWAS_FDR-Copy1.ipynb
+GWAS_FDR-Copy2.ipynb
+GWAS_FDR.ipynb
+Generative Adversarial Networks Tutorial.ipynb
+H2O_Neural_Networks.ipynb
+H2O_automl_lending_club.ipynb
+H2O_automl_model.ipynb
+HW2.ipynb
+Homework 11.ipynb
+Homework 12 Final.ipynb
+Homework 12.ipynb
+HumanActivityRecognition.ipynb
+INFO_7390_Advances_in_Data_Sciences_and_Architecture_Assignment_1.ipynb
+INFO_7390_Advances_in_Data_Sciences_and_Architecture_Assignment_2.ipynb
+INFO_7390_Advances_in_Data_Sciences_and_Architecture_Assignment_3.ipynb
+INFO_7390_Advances_in_Data_Sciences_and_Architecture_Assignment_4.ipynb
+INFO_7390_Advances_in_Data_Sciences_and_Architecture_Research_Project.ipynb
+IS 602 Project.ipynb
+IS607Assignment4.ipynb
+Image Aggregation from Tar.ipynb
+Image Analysis.ipynb
+Image Extraction from Tar.ipynb
+Image Processing.ipynb
+Image Stitching.ipynb
+ImageAnalysis.ipynb
+Image_Captioning.ipynb
+Image_Captioning_LSTM.ipynb
+Image_Filter_Conor.ipynb
+Image_Generation_using_GAN.ipynb
+InceptionV3_Transfer_Learning.ipynb
+Index.ipynb
+Instagram Analysis.ipynb
+Instagram Reverse Engineering.ipynb
+Instagram_Assignment.ipynb
+Introduction_to_MongoDB.ipynb
+Introduction_to_NoSQL.ipynb
+Introduction_to_Python_TensorFlow.ipynb
+K-Nearest Neighbor+Decision Tree.ipynb
+Kaggle Notebook.ipynb
+Kaggle_Competition.ipynb
+Kaggle_Kernel.ipynb
+Kernel_Summary.ipynb
+Kleinhenz_Instagram Reverse Engineering.ipynb
+Knowing Ames, Data Analysis and Hypothesis generation.ipynb
+Logistic Regression.ipynb
+M1.ipynb
+MLP-MNIST.ipynb
+MacKenzie_Instagram.ipynb
+Machine Learning added features.ipynb
+Machine Learning.ipynb
+MapTest.ipynb
+Merge_Uber_Lyft.ipynb
+Mimick_AlexNet_Keras.ipynb
+Mobilenet_ImageCap.ipynb
+MongoDB_python.ipynb
+MongoDB_python_Load_CSV.ipynb
+MongoDB_python_Load_JSON.ipynb
+MongoDB_python_Tags.ipynb
+MouseBrain Classification.ipynb
+MouseBrainImageClassifier_ZiqingLu.ipynb
+NBB_ BeautifulSoup.ipynb
+NBB_Apache_Spark_DataBricks.ipynb
+NBB_Apache_Spark_RDD.ipynb
+NBB_Apache_Spark_SQL_Dataframes.ipynb
+NBB_Big Data and Data Science.ipynb
+NBB_Clustering.ipynb
+NBB_Convolutions.ipynb
+NBB_Convolutions_A.ipynb
+NBB_Convolutions_B.ipynb
+NBB_Convolutions_C.ipynb
+NBB_Data_Munging_Wrangling.ipynb
+NBB_Data_Visualization_matplotlib.ipynb
+NBB_Decision_Trees.ipynb
+NBB_Decision_Trees_Random_Forest.ipynb
+NBB_Deep_Learning_Shallow_Neural_Networks.ipynb
+NBB_Deep_Learning_Workshop.ipynb
+NBB_Exploratory_Data Analysis.ipynb
+NBB_Gaussian_Mixtures.ipynb
+NBB_Graphs_Trees.ipynb
+NBB_Hypothesis_Testing.ipynb
+NBB_INFORMS_Deep_Learning_Workshop.ipynb
+NBB_Intro_Python.ipynb
+NBB_Intro_Python_Data_Structures.ipynb
+NBB_Jupyter_Markdown.ipynb
+NBB_K-Means.ipynb
+NBB_KNN.ipynb
+NBB_Kernel_Density_Estimation.ipynb
+NBB_Latent_Space_Visualization.ipynb
+NBB_Linear_Regression.ipynb
+NBB_Logistic_Regression.ipynb
+NBB_Manifold_Learning.ipynb
+NBB_NLP_Theory.ipynb
+NBB_NLTK.ipynb
+NBB_Naïve_Bayes.ipynb
+NBB_Network_Analysis.ipynb
+NBB_Normality_Testing.ipynb
+NBB_Principal_Component_Analysis.ipynb
+NBB_Probability Distributions.ipynb
+NBB_RegEx.ipynb
+NBB_Regularization.ipynb
+NBB_SQL.ipynb
+NBB_Sepia_filter.ipynb
+NBB_Social_Web_Facebook.ipynb
+NBB_Social_Web_Twitter.ipynb
+NBB_Statistics_and_Probability.ipynb
+NBB_Support_Vector_Machine_(SVM).ipynb
+NBB_Time_Series.ipynb
+NBB_data_pipelines.ipynb
+NeuralStyleTransfer.ipynb
+Neural_Network_Regression.ipynb
+Object Detection.ipynb
+Old_Kaggle_Kernal.ipynb
+Oversampling - Random OverSampling.ipynb
+Portfolio Big Data.ipynb
+Portfolio(1) Data Preprocessing & EDA Part.ipynb
+Portfolio(2) Machine Learning & Deep Learning Part.ipynb
+Portfolio.ipynb
+Portfolio:Notebook - Pruning Deep Neural Nets.ipynb
+PortfolioBlog.ipynb
+PortfolioOptimizer (Part I).ipynb
+PortfolioOptimizer- part1.ipynb
+Portfolio_001211111s_attempt_2018-04-27-22-11-19_research-sr-imgcls-final.ipynb
+Portfolio_001216568s_attempt_2018-04-27-21-31-19_Final Portfolio - Image Generation Using GAN.ipynb
+Portfolio_001222342s_attempt_2018-04-26-21-21-30_Amazon_Reviews_Analysis_LSTM.ipynb
+Portfolio_001222342s_attempt_2018-04-26-21-21-30_Amazon_Reviews_Analysis_portfolio.ipynb
+Portfolio_001231323s_attempt_2018-04-27-21-28-10_HumanActivityRecognition.ipynb
+Portfolio_001237523s_attempt_2018-04-28-00-03-20_Data Cleaning- Lending Club -Python 2.7.ipynb
+Portfolio_001237523s_attempt_2018-04-28-00-03-20_Lending Club- Decision Tree- Ensemble Methods.ipynb
+Portfolio_001237523s_attempt_2018-04-28-00-03-20_MLP - Lending Club.ipynb
+Portfolio_001239226s_attempt_2018-04-27-21-37-21_Portfolio.ipynb
+Portfolio_001247297s_attempt_2018-04-27-23-29-14_LSTM.ipynb
+Portfolio_001259251s_attempt_2018-04-27-21-11-05_HumanActivityRecognition.ipynb
+Portfolio_001266977s_attempt_2018-04-27-20-00-41_Portfolio.ipynb
+Portfolio_001271649s_attempt_2018-04-27-22-03-36_CSYE 7245- Big-Data Systems & Intelligence Analytics Project.ipynb
+Portfolio_001273467s_attempt_2018-04-27-23-28-19_LSTM.ipynb
+Portfolio_001280718s_attempt_2018-04-27-21-08-21_HumanActivityRecognition.ipynb
+Portfolio_001289666s_attempt_2018-04-27-20-01-00_Portfolio.ipynb
+Portfolio_001611818s_attempt_2018-04-27-16-24-54_Portfolio.ipynb
+Portfolio_001813733s_attempt_2018-04-27-23-51-51_LSTM.ipynb
+Portfolio_001814246s_attempt_2018-04-27-21-31-51_Final Portfolio - Image Generation Using GAN.ipynb
+Portfolio_001814460s_attempt_2018-04-27-20-55-11_Portfolio_SPP_U_SA.ipynb
+Portfolio_001814728s_attempt_2018-04-27-19-50-20_SpotifyMusicaAnalysis_Portfolio.ipynb
+Portfolio_001824402s_attempt_2018-04-27-22-12-34_Portfolio.ipynb
+Portfolio_001824469s_attempt_2018-04-27-23-57-53_Final_Project_BDIA.ipynb
+Portfolio_001824902s_attempt_2018-04-27-20-16-38_Portfolio Big Data.ipynb
+Portfolio_001825094s_attempt_2018-04-27-20-42-39_7245portfolio.ipynb
+Portfolio_001826787s_attempt_2018-04-27-10-47-03_Bitcoin closing price prediction using Deep Learning, Random FoC5AE6530324E25B0FFF6F45F5CBD8B3C.ipynb
+Portfolio_001828562s_attempt_2018-04-27-22-29-45_Portfolio.ipynb
+Portfolio_001837464s_attempt_2018-04-27-16-28-40_Bitcoin closing price prediction using Deep Learning, Random Fo9A62CB1165AFDB6D3D4169F2876FFD8E.ipynb
+Portfolio_001838559s_attempt_2018-04-27-22-12-07_Portfolio.ipynb
+Portfolio_001850025s_attempt_2018-04-27-16-40-11_CSYE_7245_ResearchProject_Portfolio_JupyterNotebook.ipynb
+Portfolio_001858105s_attempt_2018-04-24-22-58-56_Portfolio Big Data.ipynb
+Portfolio_001869360s_attempt_2018-04-27-23-59-06_Final_Project_BDIA.ipynb
+Portfolio_SPP_U_SA.ipynb
+Pre-Processing the dataset.ipynb
+Prediction Scheduler.ipynb
+Predictive modelling.ipynb
+Preprocessing.ipynb
+Project Code.ipynb
+ProjectCode_BDIA.ipynb
+Protfolio Blog.ipynb
+Q7.ipynb
+Q8.ipynb
+Question Answering System_Portfolio.ipynb
+RNN-MNIST.ipynb
+RNN_Recurrent_Neural_Networks.ipynb
+RayTracing.ipynb
+Reinforcement Learning Dino Run.ipynb
+Report.ipynb
+Research Project.ipynb
+ResearchPaper.ipynb
+Research_Project.ipynb
+SUMMARY OF KAGGLE'S MODELS.ipynb
+SVM Regression_Gaussian.ipynb
+SVM Regression_Linear.ipynb
+SVM Regression_Polynomial.ipynb
+SVM Regression_Sigmoid.ipynb
+ScrapyFile.ipynb
+SolomonAssignment 3.ipynb
+Spark_SQL.ipynb
+StockPrediction (Part II).ipynb
+StockPrediction- part2.ipynb
+Stock_Price_Prediction_LSTM.ipynb
+Text Generation.ipynb
+Time Series - Moving Average Model-Lyft.ipynb
+Time Series - Moving Average Model-Uber.ipynb
+TylerInstagram.ipynb
+Uber-to-sql.ipynb
+Unsupervised_Learning_AutoEncoders.ipynb
+Untitled.ipynb
+Untitled1.ipynb
+Untitled2.ipynb
+Untitled3.ipynb
+Using_Apache_Spark_2.0_to_Analyze_the_City_of_San_Franciscos_Open_Data.ipynb
+Variational Autoencoder.ipynb
+Visualization.ipynb
+Wol.homework_3.ipynb
+Word2Vec TensorFlow.ipynb
+Yos.CS4300-A3.ipynb
+Zhang_Instagram Reverse Engineering.ipynb
+adv0_chromosomes.ipynb
+adv1-lesion-quantification.ipynb
+alekhine.nMidterm_Q7.ipynb
+alekhine.nMidterm_Q8.ipynb
+autoencoder.ipynb
+babski.sUntitled.ipynb
+basic_operations.ipynb
+bidirectional_rnn.ipynb
+bike sharing demand.ipynb
+build_an_image_dataset.ipynb
+captcha.ipynb
+ch08.ipynb
+client.ipynb
+convolutional_network.ipynb
+convolutional_network_raw.ipynb
+data-preparation.ipynb
+dynamic_rnn.ipynb
+embed-plotly-irnb.ipynb
+example_pano.ipynb
+flask.ipynb
+fuel_efficiency_python.ipynb
+helloworld.ipynb
+histograms.ipynb
+human_activity_recognition_CodeReview.ipynb
+image-filter.ipynb
+jupyter notebook
+kmeans.ipynb
+line-shapes.ipynb
+linear_regression.ipynb
+logistic_regression.ipynb
+ml_introduction.ipynb
+mnist_dataset_intro.ipynb
+multigpu_basics.ipynb
+multigpu_cnn.ipynb
+nearest_neighbor.ipynb
+neural_network.ipynb
+neural_network_raw.ipynb
+overview.ipynb
+pretty-r-ggplot2.ipynb
+random_forest.ipynb
+recurrent_network.ipynb
+recurrent_network_lec.ipynb
+research-sr-imgcls-final.ipynb
+save_restore_model.ipynb
+solutions_012.ipynb
+stock-prediction.ipynb
+tagged_vectorsum.ipynb
+tensorboard_advanced.ipynb
+tensorboard_basic.ipynb
+tensorflow_dataset_api.ipynb
+time_series_deep_learning_tensorflow.ipynb
+time_series_facebook_prophet.ipynb
+train_network_by_transfer_learning.ipynb
+variational_autoencoder.ipynb
+vectorsum.ipynb
+week11practice.ipynb
+
+Mid:
+Q1.md
+Q2.md
+Q3.md
+Q4.md
+Q5.md
+Q6
+Q7
+Q8
+alekhine.nMidterm_Q7.ipynb
+alekhine.nMidterm_Q8.ipynb
+babski.sUntitled.ipynb
+images
+
+OLD:
+000_index.ipynb
+00_images_are_arrays.ipynb
+01_basic_plotting.ipynb
+02-indexing.ipynb
+0_color_and_exposure.ipynb
+1_image_filters.ipynb
+2_feature_detection.ipynb
+3_morphological_operations.ipynb
+4_segmentation.ipynb
+Analyzes.ipynb
+Assignment 3.ipynb
+Assignment 3_cepko.s_attempt_2014-06-04-21-59-05_HW3.ipynb
+Assignment3_Code-Copy0.ipynb
+CS 4300 HW 3.ipynb
+Filter.ipynb
+HW2.ipynb
+Homework 11.ipynb
+Homework 12 Final.ipynb
+Homework 12.ipynb
+IS 602 Project.ipynb
+IS607Assignment4.ipynb
+Image Analysis.ipynb
+ImageAnalysis.ipynb
+Image_Filter_Conor.ipynb
+Instagram Analysis.ipynb
+Instagram Reverse Engineering.ipynb
+Instagram_Assignment.ipynb
+Kleinhenz_Instagram Reverse Engineering.ipynb
+MacKenzie_Instagram.ipynb
+MapTest.ipynb
+Research Project.ipynb
+SolomonAssignment 3.ipynb
+TylerInstagram.ipynb
+Untitled1.ipynb
+Untitled2.ipynb
+Wol.homework_3.ipynb
+Yos.CS4300-A3.ipynb
+Zhang_Instagram Reverse Engineering.ipynb
+adv0_chromosomes.ipynb
+adv1-lesion-quantification.ipynb
+ch08.ipynb
+embed-plotly-irnb.ipynb
+example_pano.ipynb
+fuel_efficiency_python.ipynb
+histograms.ipynb
+image-filter.ipynb
+index.ipynb
+line-shapes.ipynb
+overview.ipynb
+pretty-r-ggplot2.ipynb
+solutions_012.ipynb
+tagged_vectorsum.ipynb
+vectorsum.ipynb
+week11practice.ipynb
+
+TwitterGraphicsProject:
+README.md
+client.ipynb
+dump
+dump.tgz
+search.py
